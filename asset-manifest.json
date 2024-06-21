@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MyReactProject/static/css/main.17689d92.css",
+    "main.js": "/MyReactProject/static/js/main.afa33dcf.js",
+    "static/js/453.47ea9eec.chunk.js": "/MyReactProject/static/js/453.47ea9eec.chunk.js",
+    "static/media/pizzaLeft.jpg": "/MyReactProject/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/MyReactProject/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizza.jpeg": "/MyReactProject/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/multiplePizzas.jpeg": "/MyReactProject/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/pizzaLogo.png": "/MyReactProject/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/expensive.jpg": "/MyReactProject/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/MyReactProject/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/MyReactProject/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/margherita.jpg": "/MyReactProject/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/JohnsSpecial.jpg": "/MyReactProject/static/media/JohnsSpecial.425951cb0e484775fd4c.jpg",
+    "index.html": "/MyReactProject/index.html",
+    "main.17689d92.css.map": "/MyReactProject/static/css/main.17689d92.css.map",
+    "main.afa33dcf.js.map": "/MyReactProject/static/js/main.afa33dcf.js.map",
+    "453.47ea9eec.chunk.js.map": "/MyReactProject/static/js/453.47ea9eec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17689d92.css",
+    "static/js/main.afa33dcf.js"
+  ]
+}
